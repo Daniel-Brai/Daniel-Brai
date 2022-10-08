@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Daniel Brai
 - 👀 I’m interested in Full-Stack Web Development and Immersive Technologies...
-- 🌱 I’m currently learning Front-end development using Angular, Back-end development using Javascript, Data Analytics using Python and Ruby on Rails.
+- 🌱 I’m currently learning Front-end development using Angular, Back-end development using Javascript and Go, Data Analytics using Python and Ruby on Rails.
 - 💞️ I’m looking to collaborate on Full-stack app development and Back-End Engineering involving SaSS.
 - 📫 You can out to reach me via [E-mail](mailto:braidaniel2001@gmail.com), or [LinkedIn](https://www.linkedin.com/in/daniel-brai-12baa21a3/).
 <!--
