@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Daniel Brai, a third-year Computer Science Student.
 - 👀 I’m interested in Full-Stack Web Development and Immersive Technologies.
-- 🌱 I’m currently learning Front-end development using Angular, Back-end development using Javascript/Typescript, Ruby and Python and Data Analytics using Python.
-- 💞️ I’m looking to collaborate on Full-stack App Development and Back-End Engineering Projects.
+- 🌱 I’m currently learning Front-end development using React and Svelte, Back-end development using Javascript/Typescript, Ruby and Python and Data Analytics using Python.
+- 💞️ I’m looking to collaborate on Full-stack App Projects particularly the Back-End area of development.
 - 📫 You can out to reach me via [E-mail](mailto:braidaniel2001@gmail.com), and [LinkedIn](https://www.linkedin.com/in/daniel-brai-12baa21a3/).
 <!--
 **Daniel-Brai/Daniel-Brai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
