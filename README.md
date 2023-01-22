@@ -1,6 +1,6 @@
 # My Bio 
 
-- 👋 Hi, I’m Daniel Brai, a third-year Computer Science Student.
+- 👋 Hi, I’m Daniel Brai, a Third-year Computer Science student at the University of Ibadan, Nigeria.
 - 👀 I’m interested in Full-Stack Web Development and Immersive Technologies.
 - 🌱 I’m currently learning Front-end development using React and Svelte, Back-end development using Javascript/Typescript, Ruby and Python and Data Analytics using Python.
 - 💞️ I’m looking to collaborate on Full-stack App Projects particularly the Back-End area of development.
