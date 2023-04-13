@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Daniel Brai, an Aspiring Software Engineer in my third year at the Department of Computer Science, University of Ibadan, Nigeria.
 - 👀 I’m interested in solving problems in the areas of Full-Stack Web Development to Systems Programming and finally Network Programming.
 - 🌱 I’m currently looking into Front-end development using Svelte, Back-end development using Typescript, Ruby and Python; Network and System Programming using Golang and/or Rust.
-- 👯 I’m looking to collaborate on any projects with like-minded individuals.
+- 👯 I’m looking to collaborate on any cool project with like-minded individuals.
 - 📫 You can out to reach me via [LinkedIn](https://www.linkedin.com/in/daniel-brai-12baa21a3/) and [E-mail](mailto:danielbrai.dev@gmail.com)
 <!--
 **Daniel-Brai/Daniel-Brai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
