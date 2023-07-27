@@ -4,7 +4,7 @@
 - 👀 I’m interested in solving problems in the areas of Backend Web development, Systems Programming, and finally Network Programming.
 - 🌱 I’m currently looking into Front-end development using Astro & Svelte, Back-end development using Typescript, Ruby, and Golang; Network and System Programming using Golang, Zig, and/or Rust.
 - 👯 I’m looking to collaborate with like-minded individuals.
-- ✍ I started a [blog](https://danielbrai.netlify.app/blog) where I write about different aspects of Software Engineering. Check it out.
+- ✍ I started a [blog](https://danielbrai.me/blog) where I write about different aspects of Software Engineering. Check it out.
 - 📫 You can out to reach me via [LinkedIn](https://www.linkedin.com/in/daniel-brai-12baa21a3/) and [E-mail](mailto:danielbrai.dev@gmail.com)
 <!--
 **Daniel-Brai/Daniel-Brai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
