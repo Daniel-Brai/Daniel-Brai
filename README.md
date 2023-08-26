@@ -1,6 +1,6 @@
 # My Bio 
 
-- 👋 Hi, I’m Daniel Brai, an aspiring Software Engineer in my third year at the Department of Computer Science, University of Ibadan, Nigeria.
+- 👋 Hi, I’m Daniel Brai, an aspiring Software Engineer in my fourth year at the Department of Computer Science, University of Ibadan, Nigeria.
 - 👀 I’m interested in solving problems in the areas of Backend Web development, Systems Programming, and finally Network Programming.
 - 🌱 I’m currently looking into Front-end development using Astro & Svelte, Back-end development using Typescript, Ruby, and Golang; Network and System Programming using Golang, Zig, and/or Rust.
 - 👯 I’m looking to collaborate with like-minded individuals.
