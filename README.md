@@ -4,7 +4,7 @@
 - 👀 I’m interested in solving problems in the areas of Web development and Systems Development.
 - 🌱 I’m currently working with:
   <p align="left">
-      <img src="https://skillicons.dev/icons?i=typescript,golang,elixir,rust,zig,python" />
+      <img src="https://skillicons.dev/icons?i=typescript,elixir,golang,rust,zig,python" />
   </p>
 - 👯 I’m looking to collaborate with like-minded individuals.
 - ✍ I started a [blog](https://danielbrai.me/posts) where I write about different aspects of Software Engineering.
