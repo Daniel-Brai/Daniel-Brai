@@ -1,6 +1,6 @@
 # My Bio 
 
-- 👋 Hi, I’m Daniel Brai, a Software Engineer in my fourth year at the Department of Computer Science, University of Ibadan, Nigeria.
+- 👋 Hi, I’m Daniel Brai, a Software Engineer in my final year at the Department of Computer Science, University of Ibadan, Nigeria.
 - 👀 I’m interested in solving problems in the areas of Web development and Systems Development.
 - 🌱 I’m currently working with and exploring:
   <p align="left">
