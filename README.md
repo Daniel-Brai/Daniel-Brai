@@ -5,7 +5,7 @@
 - 🌱 I’m currently working with and exploring:
   <p align="left">
       <h3>Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=typescript,elixir,golang,rust,ruby,zig,python" />
+      <img src="https://skillicons.dev/icons?i=typescript,python,elixir,rust,ruby,golang,zig" />
   </p>
   <div align="left">
       <h3>Platforms and Tools</h3>
@@ -13,7 +13,7 @@
   </div>
 - 👯 I’m looking to collaborate with like-minded individuals.
 - ✍ I started a [blog](https://danielbrai.dev/posts) where I write about different aspects of Software Engineering.
-- 📫 You can out to reach me via [LinkedIn](https://www.linkedin.com/in/daniel-brai-12baa21a3/) and [E-mail](mailto:danielbrai.dev@gmail.com)
+- 📫 You can out to reach me via [LinkedIn](https://www.linkedin.com/in/daniel-o-brai/) and [E-mail](mailto:danielbrai.dev@gmail.com)
 
 
 <!--
