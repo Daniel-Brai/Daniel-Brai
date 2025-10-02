@@ -12,7 +12,7 @@
       <img src="https://skillicons.dev/icons?i=postgresql,aws,azure,linux,bash,k8s,docker" />
   </div>
 - I’m looking to collaborate with like-minded individuals.
-- I have a [blog](https://danielbrai.dev/posts) where I write about my experiences so far.
+- I have a [blog](https://danielbrai.dev/blog) where I write about my experiences so far.
 - You can out to reach me via [LinkedIn](https://www.linkedin.com/in/daniel-o-brai/) and [E-mail](mailto:danielbrai.dev@gmail.com)
 
 
