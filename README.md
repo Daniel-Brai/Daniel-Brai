@@ -1,11 +1,12 @@
 ## 👋 Hi, I'm Daniel
 
-A polyglot software engineer based in Lagos, Nigeria. I work as a backend engineer building backend systems in the commerce and financial industry.
+A polyglot software engineer based in Lagos, Nigeria. At work, I mainly focus on building backend systems.
 
-- I’m particularly passionate about developing tools, distributed systems and artificial intelligence (mostly RL).
+- I’m particularly passionate about developing tiny tools for fun, learning about distributed systems and artificial intelligence (mostly RL).
 - I’m looking to collaborate with like-minded individuals.
 - I have a [blog](https://danielbrai.dev/blog) where I write about my experiences so far.
 - You can out to reach me via [LinkedIn](https://www.linkedin.com/in/daniel-o-brai/) and [E-mail](mailto:danielbrai.dev@gmail.com)
+
 <!-- - I’m currently working with and exploring:
  <p align="left">
       <h3>Programming Languages</h3>
